@@ -1,16 +1,16 @@
-# Termos de Uso - KcalCam
+# Termos de Uso - SnapFoodCal
 
 **Ultima atualizacao:** 05 de Dezembro de 2024
 
-Bem-vindo ao KcalCam! Ao baixar, instalar ou usar nosso aplicativo, voce concorda com estes Termos de Uso. Por favor, leia-os atentamente.
+Bem-vindo ao SnapFoodCal! Ao baixar, instalar ou usar nosso aplicativo, voce concorda com estes Termos de Uso. Por favor, leia-os atentamente.
 
 ## 1. Aceitacao dos Termos
 
-Ao acessar ou usar o KcalCam, voce concorda em cumprir e estar vinculado a estes Termos de Uso e nossa Politica de Privacidade. Se voce nao concordar com qualquer parte destes termos, nao devera usar o aplicativo.
+Ao acessar ou usar o SnapFoodCal, voce concorda em cumprir e estar vinculado a estes Termos de Uso e nossa Politica de Privacidade. Se voce nao concordar com qualquer parte destes termos, nao devera usar o aplicativo.
 
 ## 2. Descricao do Servico
 
-O KcalCam e um aplicativo de rastreamento nutricional que oferece:
+O SnapFoodCal e um aplicativo de rastreamento nutricional que oferece:
 
 - Analise de alimentos por foto usando inteligencia artificial
 - Escaneamento de codigos de barras para identificacao de produtos
@@ -37,7 +37,7 @@ O KcalCam e um aplicativo de rastreamento nutricional que oferece:
 ## 4. Aviso Importante sobre Saude
 
 ### 4.1 Nao e Conselho Medico
-O KcalCam e uma ferramenta de auxilio para rastreamento nutricional. **NAO substitui aconselhamento medico, nutricional ou de saude profissional.**
+O SnapFoodCal e uma ferramenta de auxilio para rastreamento nutricional. **NAO substitui aconselhamento medico, nutricional ou de saude profissional.**
 
 ### 4.2 Estimativas Aproximadas
 As analises de calorias e macronutrientes fornecidas pelo aplicativo sao **estimativas baseadas em inteligencia artificial**. Os valores podem variar dependendo de:
@@ -75,7 +75,7 @@ Solicitacoes de reembolso devem ser feitas diretamente atraves da Apple App Stor
 ## 6. Propriedade Intelectual
 
 ### 6.1 Nossos Direitos
-O KcalCam, incluindo seu design, codigo, logotipos, icones e conteudo, sao propriedade do desenvolvedor e protegidos por leis de direitos autorais.
+O SnapFoodCal, incluindo seu design, codigo, logotipos, icones e conteudo, sao propriedade do desenvolvedor e protegidos por leis de direitos autorais.
 
 ### 6.2 Seus Direitos
 Voce mantem todos os direitos sobre as fotos e dados pessoais que voce fornece ao aplicativo.
@@ -83,7 +83,7 @@ Voce mantem todos os direitos sobre as fotos e dados pessoais que voce fornece a
 ## 7. Limitacao de Responsabilidade
 
 ### 7.1 Uso por Sua Conta e Risco
-O uso do KcalCam e por sua conta e risco. O aplicativo e fornecido "como esta" e "conforme disponivel".
+O uso do SnapFoodCal e por sua conta e risco. O aplicativo e fornecido "como esta" e "conforme disponivel".
 
 ### 7.2 Sem Garantias
 Nao garantimos que:
@@ -124,7 +124,7 @@ Para duvidas sobre estes Termos de Uso:
 ## 12. Disposicoes Gerais
 
 ### 12.1 Acordo Integral
-Estes Termos de Uso, junto com a Politica de Privacidade, constituem o acordo completo entre voce e o KcalCam.
+Estes Termos de Uso, junto com a Politica de Privacidade, constituem o acordo completo entre voce e o SnapFoodCal.
 
 ### 12.2 Separabilidade
 Se qualquer disposicao destes termos for considerada invalida, as demais disposicoes permanecerao em vigor.
@@ -134,9 +134,9 @@ A falha em exercer qualquer direito nao constitui renuncia a esse direito.
 
 ---
 
-*Ao usar o KcalCam, voce confirma que leu, entendeu e concorda com estes Termos de Uso.*
+*Ao usar o SnapFoodCal, voce confirma que leu, entendeu e concorda com estes Termos de Uso.*
 
 ---
 
-**KcalCam - Contador de Calorias**
+**SnapFoodCal - Contador de Calorias**
 Versao 1.0.0
