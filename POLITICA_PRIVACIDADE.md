@@ -1,8 +1,8 @@
-# Politica de Privacidade - KcalCam
+# Politica de Privacidade - SnapFoodCal
 
 **Ultima atualizacao:** 05 de Dezembro de 2024
 
-O KcalCam ("nos", "nosso" ou "aplicativo") respeita sua privacidade e esta comprometido em proteger seus dados pessoais. Esta politica de privacidade explica como coletamos, usamos e protegemos suas informacoes quando voce usa nosso aplicativo.
+O SnapFoodCal ("nos", "nosso" ou "aplicativo") respeita sua privacidade e esta comprometido em proteger seus dados pessoais. Esta politica de privacidade explica como coletamos, usamos e protegemos suas informacoes quando voce usa nosso aplicativo.
 
 ## 1. Informacoes que Coletamos
 
@@ -48,7 +48,7 @@ Todos os seus dados pessoais sao armazenados **exclusivamente no seu dispositivo
 - Registros de jejum e atividades
 
 ### 3.2 Nenhum Servidor Externo
-O KcalCam nao possui servidores proprios para armazenamento de dados de usuarios. Seus dados permanecem sob seu controle total.
+O SnapFoodCal nao possui servidores proprios para armazenamento de dados de usuarios. Seus dados permanecem sob seu controle total.
 
 ### 3.3 Processamento na Nuvem
 O unico dado enviado externamente sao as fotos de alimentos, processadas pela API do Google Gemini para analise. Essas imagens:
@@ -82,7 +82,7 @@ Voce pode editar suas informacoes pessoais a qualquer momento nas configuracoes 
 
 ## 6. Uso por Menores
 
-O KcalCam e classificado para todas as idades. No entanto, recomendamos que menores de 13 anos utilizem o aplicativo sob supervisao de um adulto.
+O SnapFoodCal e classificado para todas as idades. No entanto, recomendamos que menores de 13 anos utilizem o aplicativo sob supervisao de um adulto.
 
 ## 7. Alteracoes nesta Politica
 
